@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChainEX</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+    <string name="title_activity_add_funds">AddFundsActivity</string>
+    <string name="title_activity_itenary">ItenaryActivity</string>
+    <string name="title_activity_street_view">StreetViewActivity</string>
+    <string name="title_activity_kyc_screen.kt">KycScreen.kt</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_kycactivity">KYCActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_bill">BillActivity</string>
+    <string name="title_activity_personal_wallet">PersonalWalletActivity</string>
+    <string name="title_activity_video_kyc">VideoKycActivity</string>
+    <string name="title_activity_notes">NotesActivity</string>
+</resources>
